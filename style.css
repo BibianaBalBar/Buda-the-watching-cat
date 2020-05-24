@@ -9,7 +9,7 @@ body {
 	width: 100vw;
 	background-color: white;
 	display: flex;
-	cursor: url(img/red-dot.png), auto;
+	cursor: auto;
 }
 
 .container {
